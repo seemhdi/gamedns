@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameDNS</string>
+    
+    <!-- Connection States -->
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    
+    <!-- DNS -->
+    <string name="dns_servers">DNS Servers</string>
+    <string name="test_speed">Test Speed</string>
+    <string name="find_best_dns">Find Best DNS</string>
+    <string name="current_dns">Current DNS</string>
+    <string name="not_connected">Not Connected</string>
+    
+    <!-- Stats -->
+    <string name="ping">Ping</string>
+    <string name="duration">Duration</string>
+    <string name="data_used">Data Used</string>
+    <string name="quality">Quality</string>
+    <string name="connection_stats">Connection Stats</string>
+    
+    <!-- Games -->
+    <string name="popular_games">Popular Games</string>
+    <string name="recommended_dns">Recommended DNS</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="system_theme">System</string>
+    <string name="notifications">Notifications</string>
+    <string name="auto_connect">Auto Connect</string>
+    <string name="about">About</string>
+    
+    <!-- Quality Ratings -->
+    <string name="excellent">Excellent</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    <string name="failed">Failed</string>
+    
+    <!-- Categories -->
+    <string name="global">Global</string>
+    <string name="iran">Iran</string>
+    <string name="gaming">Gaming</string>
+    <string name="custom">Custom</string>
+    
+    <!-- Descriptions -->
+    <string name="app_description">Fast and reliable DNS changer for gaming. Change your DNS without root access using VPN mode.</string>
+    <string name="vpn_permission_required">VPN permission is required to change DNS settings</string>
+    <string name="testing_speed">Testing speed…</string>
+    <string name="select_game_description">Select a game to see recommended DNS servers for optimal performance</string>
+</resources>
